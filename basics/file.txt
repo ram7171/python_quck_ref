@@ -1,0 +1,10 @@
+ave the parentheses. However, if I try to open above setup.py file, it cannot be opened and if 
+I open the \Temp folder, there is no "pip-build-ixm1pfqb". Does anybody know how this can be and how 
+I can fix this problem? Annotation: This is not a question specifically about the "multiprocessing" package, 
+since the package is indeed part of the Python 3.5 installation. The question is about where the "setup.py" goes. 
+From my own experience I know that if there are more exotic packages which are not included in the basic installation 
+of Python and there are bugs like this (after all, a simple flag differentiating the Python versions would
+have sufficed to avoid this problem), one needs to have access to the "setup.py" file. So I try to rephrase 
+the question: What happens to the above mentiioned file since the system even indicated the 
+exact location int he file that causes the error, but then the file is not locatable? By the way, 
+I am on a Windows 10 machine
